@@ -1,10 +1,9 @@
 # MIND-THE-STEM-GAP
-Progetto di scienze per scuola
+Progetto di scienze per scuola:
 <!DOCTYPE html>
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title> Ciao </title>
 	<meta name="generator" content="LibreOffice 24.2.1.2 (Windows)"/>
 	<meta name="created" content="2024-03-13T20:51:02.533000000"/>
 	<meta name="changed" content="2024-03-13T21:15:57.072000000"/>
@@ -13,8 +12,6 @@ Progetto di scienze per scuola
 <font color="#ff0000"><font face="Showcard Gothic, fantasy"><font size="6" style="font-size: 26pt">LE
 FEMMINE E LA SCIENZA!</font></font></font></p>
 <p style="line-height: 100%; margin-bottom: 1cm"><font color="#000000">
-                                                                     
-                      </font>
 </p>
 <p align="left" style="line-height: 100%; margin-left: 0cm; margin-bottom: 0cm">
 <font color="#000000"><font face="Dekko"><font size="25" style="font-size: 14pt"> <img src="scienze2_html_1931864e.png" name="Immagine1" align="left" width="160" height="210" border="0"/>
