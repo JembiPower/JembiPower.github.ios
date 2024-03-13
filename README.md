@@ -14,7 +14,8 @@ FEMMINE E LA SCIENZA!</font></font></font></p>
 <p style="line-height: 100%; margin-bottom: 1cm"><font color="#000000">
 </p>
 <p align="left" style="line-height: 100%; margin-left: 0cm; margin-bottom: 0cm">
-<font color="#000000"><font face="Dekko"><font size="25" style="font-size: 14pt"> <img src="scienze2_html_1931864e.png" name="Immagine1" align="left" width="160" height="210" border="0"/>
+<font color="#000000"><font face="Dekko"><font size="25" style="font-size: 14pt"> <img src="![image](https://github.com/JembiPower/MIND-THE-STEM-GAP/assets/163330059/ae3354cf-eebb-4121-9b80-f722178373dd)
+" name="Immagine1" align="left" width="160" height="210" border="0"/>
 Questo progetto testimonia il fatto che anche le donne possano fare la
 differenza! Sapete quante scienziate hanno scoperto e inventato un
 sacco di cose che usiamo ogni giorno? Scommetto che a scuola quando
