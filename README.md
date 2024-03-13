@@ -8,12 +8,6 @@ Progetto di scienze per scuola
 	<meta name="generator" content="LibreOffice 24.2.1.2 (Windows)"/>
 	<meta name="created" content="2024-03-13T20:51:02.533000000"/>
 	<meta name="changed" content="2024-03-13T21:15:57.072000000"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		a:link { color: #000080; text-decoration: underline }
-		a:visited { color: #800000; text-decoration: underline }
-	</style>
 </head>
 <body lang="it-IT" link="#000080" vlink="#800000" dir="ltr"><p style="line-height: 100%; margin-bottom: 0cm">
 <font color="#ff0000"><font face="Showcard Gothic, fantasy"><font size="6" style="font-size: 26pt">LE
