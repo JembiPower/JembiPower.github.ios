@@ -19,8 +19,7 @@ FEMMINE E LA SCIENZA!</font></font></font></p>
 Questo progetto testimonia il fatto che anche le donne possano fare la
 differenza! Sapete quante scienziate hanno scoperto e inventato un
 sacco di cose che usiamo ogni giorno? Scommetto che a scuola quando
-sbagli per fare tutto in modo ordinato e pulito se sbagli a scrivere
-qualcosa usi il bianchetto invece di fare una tricca, ecco questo è
+sbagli a scrivere a qualcosa per fare tutto in modo ordinato e pulito usi il bianchetto invece di fare una stricca, ecco questo è
 stato inventato da Bette Nesmish Graham, ma di donne come lei ce ne
 sono state migliaia. Oggi andremo a scoprirne un paio e poi con un
 quiz vedremo che scienziata sei…</font></font></font></p>
