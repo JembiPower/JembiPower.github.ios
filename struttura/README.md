@@ -56,7 +56,7 @@ Giorgio</font></p>
 <p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="Dekko">Giannazzo
 Vittoria</font></p>
 <p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="Dekko">Grassi
-Nikola</font></p>
+Nicola</font></p>
 <p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="Dekko">Ilas
 Sophie</font></p>
 <p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="Dekko">Leban
